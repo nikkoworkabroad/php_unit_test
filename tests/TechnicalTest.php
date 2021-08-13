@@ -10,7 +10,7 @@ class TechnicalTest extends TestCase
 	protected $db,$user;
 
 	/**
-	 * Setup
+	 * Initialize Setup
 	 *
 	 * @return void
 	 */
